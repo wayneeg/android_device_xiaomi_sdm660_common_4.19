@@ -189,6 +189,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     debug.sf.high_fps_early_gl_phase_offset_ns=9000000 \
     debug.sf.phase_offset_threshold_for_next_vsync_ns=6100000
 
+# DRM Service
+PRODUCT_PROPERTY_OVERRIDES += \
+    drm.service.enabled=true \
+    media.mediadrmservice.enable=true
+
 # GMS
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.com.google.clientidbase.ms=android-xiaomi-rev2
