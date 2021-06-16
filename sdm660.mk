@@ -377,7 +377,8 @@ PRODUCT_PACKAGES += \
     libavmediaserviceextensions \
     libmediametrics \
     libregistermsext \
-    mediametrics
+    mediametrics \
+    android.hardware.media.omx@1.0-impl
 
 # OMX
 PRODUCT_PACKAGES += \
@@ -386,6 +387,7 @@ PRODUCT_PACKAGES += \
     libc2dcolorconvert \
     libhypv_intercept \
     libmm-omxcore \
+	libOmxSwVencHevc \
     libOmxCore \
     libOmxAacEnc \
     libOmxAmrEnc \
