@@ -461,11 +461,7 @@ vendor/lib64/libmlipay@1.1.so|d00e254dedca640e04ab5f218e0e873d61b07f50
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so|8d7c388d98168d00b7bf52490a5d4b3567d227b7
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so|1bc3e6e873b76b1a04536bca664fd00d651d163f
 
-# Perf - from curtana V12.0.1.7.RJWMIXM
-vendor/lib/libqti-perfd-client.so|64962dd4d5e8b7fd11927c70778f79ea1cd140dd
-vendor/lib64/libqti-perfd-client.so|b6881ca5b77335490bd91c6803feb5d31cbf8e92
-
-# Extra Perf - From curtana V12.0.1.7.RJWMIXM
+# Perf - From curtana V12.0.1.7.RJWMIXM
 vendor/lib64/libadaptlaunch.so|399209a9e1a05476b5a227ac7673a95c23009447
 vendor/lib64/libappclassifier.so|e5eb66054c66fd2552f5746be65d6f3037f749b5
 vendor/lib64/libgameoptfeature.so|140eed0fcbc31140df4c93a554ec49782cf11591
