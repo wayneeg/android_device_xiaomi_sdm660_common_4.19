@@ -243,15 +243,15 @@ vendor/lib64/libkeymasterutils.so|b9c888d579c9cf7a1c8f463be4048eb9d935daf8
 vendor/lib/libmm-hdcpmgr.so|1ff84ed9daf224c6a4dde2900291c4d678032231
 vendor/lib64/libmm-hdcpmgr.so|029096911d2ef0dc6a65b07d720d392f88988d04
 
-# DRM (Widevine) - from ginkgo RKQ1.201004.002
+# DRM (Widevine) - from ginkgo 21.6.9
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine|75103a18355966370895526dc9afb6adff4b755b
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|c35e1a6f9a6faff19064a81e07c4be82ceaf4bb5
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ebebcf8f367641480cf7d512fc06e6ab777527be
 vendor/lib64/libbase64.so|caba4e42499d8e53e80c5e05313a36058ae5123e
 vendor/lib64/libcpion.so|afa44f5941a880a4d304dfac4b5d175762b20539
 vendor/lib64/librmp.so|176aed768090f0c8b48cb6ad9e397b35f128b2a5
-vendor/lib64/libwvhidl.so|fb8088d4a47b7a3918c798c58e1636c10bce3427
-vendor/lib64/mediadrm/libwvdrmengine.so|1c09274f43d0028a8ef56b35013b5768aae62c6d
+vendor/lib64/libwvhidl.so|e98bb50eabcfa15da53a141db522634c168a34e0
+vendor/lib64/mediadrm/libwvdrmengine.so|a29e4a99ad106d7e13017f23377edd0971de8cb9
 
 # DRM (TUI) - from LA.UM.8.2.1.r1-05600-sdm660
 vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|d4d025e0a12af87f65104fe07801517938733603
@@ -712,8 +712,8 @@ vendor/lib64/libthermalioctl.so|7c7a784d8ead3d932d164cfc953b09e621060d90
 vendor/bin/time_daemon|0def9165831d91241cd011abafc0a106f69bd06e
 vendor/etc/init/init.time_daemon.rc|b253ca2a498757e14e1d7a051bf504ae09218f51
 
-# Wi-Fi - from ginkgo RKQ1.201004.002
-vendor/bin/cnss-daemon|f6e1c36daee14e49ee570623a774174538536935
+# Wi-Fi - from ginkgo 21.6.9
+vendor/bin/cnss-daemon|1b840d768c5d49a3a440fffcf526eefa45a7ad5b
 
 # WFD - from LA.UM.8.2.1.r1-05600-sdm660
 -framework/WfdCommon.jar|3440607d29511e1a671e565a2acc4d262e38a9fb
