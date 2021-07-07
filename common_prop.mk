@@ -149,6 +149,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.camera.max.previewfps=60 \
     persist.vendor.camera.eis.enable=1 \
     persist.vendor.camera.exif.make=Xiaomi \
+    persist.vendor.camera.preview.ubwc=0 \
     vendor.camera.aux.packageexcludelist=com.discord \
     camera.aux.packagelist=com.google.android.GoogleCamera,com.android.camera,org.codeaurora.snapcam \
     vendor.camera.aux.packagelist=com.google.android.GoogleCamera,com.android.camera,org.codeaurora.snapcam
