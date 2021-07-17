@@ -16,3 +16,7 @@ allow init firmware_file:filesystem { getattr };
 allow init bt_firmware_file:filesystem { getattr };
 allow init apex_metadata_file:lnk_file { read };
 
+allow init {
+    bt_firmware_file
+    firmware_file
+}:filesystem getattr;

@@ -32,3 +32,5 @@ set_prop(vendor_init, exported_camera_prop)
 set_prop(vendor_init, vendor_camera_prop)
 set_prop(vendor_init, vendor_fm_prop)
 set_prop(vendor_init, vendor_power_prop)
+
+allow vendor_init tee_device:chr_file getattr;
