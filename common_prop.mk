@@ -215,7 +215,19 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.dbg.volte_avail_ovr=1 \
     persist.dbg.vt_avail_ovr=1 \
     persist.dbg.wfc_avail_ovr=1 \
-    persist.vendor.ims.disableUserAgent=0
+    persist.vendor.ims.disableUserAgent=0 \
+    persist.radio.enable_nw_cw=1 \
+    persist.ro.ril.sms_sync_sending=1 \
+    persist.ims.volte=true \
+    persist.radio.RATE_ADAPT_ENABLE=1 \
+    persist.radio.ROTATION_ENABLE=1 \
+    persist.radio.VT_ENABLE=1 \
+    persist.radio.VT_HYBRID_ENABLE=1 \
+    ro.cst.prm=1281-1806:R2D \
+    persist.radio.calls.on.ims=1 \
+    persist.dbg.ims_volte_enable=1 \
+    persist.data.iwlan.enable=true \
+    persist.radio.ue_interrogate=0
 
 # IORap app launch prefetching using Perfetto traces and madvise
 PRODUCT_PRODUCT_PROPERTIES += \
