@@ -93,9 +93,6 @@ persist.radio.data_con_rprt=1
 # Rendering
 persist.hwc.ptor.enable=true
 
-# SELinux
-ro.build.selinux=1
-
 #Storaged
 ro.storaged.event.interval=99999
 
