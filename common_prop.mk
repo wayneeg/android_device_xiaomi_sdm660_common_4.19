@@ -353,6 +353,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.hdmi.enable=true \
     ro.hdmi.mirror.enable=true \
     persist.debug.wfd.enable=1 \
+    debug.sf.enable_hwc_vds=1 \
     persist.sys.wfd.virtual=0
 
 # ZRAM
