@@ -309,6 +309,7 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     persist.vendor.radio.enable_temp_dds=true \
     persist.vendor.radio.force_on_dc=true \
     ril.subscription.types=RUIM \
+    persist.vendor.radio.aosp_usr_pref_sel=true \
     telephony.lteOnCdmaDevice=1
 
 # Rendering
