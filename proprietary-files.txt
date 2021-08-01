@@ -120,7 +120,7 @@ vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so|32c763b353882c9a711a641ff9
 # Charger - from redfin RQ2A.210505.00
 vendor/bin/hvdcp_opti|ab1b0ff09a55fd1b66d0ef5ce6e1d0d4589b34fe
 
-# CNE - from curtana V12.0.5.0.RJWINXM
+# CNE - from curtana V12.0.4.0.RJWMIXM
 system_ext/framework/com.quicinc.cne.api-V1.1-java.jar|88da95df5925ab3c173f951cfe56c95699908359
 system_ext/framework/com.quicinc.cne.constants-V1.0-java.jar|b30a8b9a9fad4dfb8ce231084ea0baf99f54931d
 system_ext/framework/com.quicinc.cne.constants-V2.0-java.jar|e8e9b049f09aee835084cc4bca081c3905221d7a
@@ -201,7 +201,7 @@ vendor/lib64/vendor.qti.hardware.data.qmi@1.0.so|01256a945becaa88788c384a70a15fe
 vendor/lib64/vendor.qti.hardware.slmadapter@1.0.so|e039cd57df22cd762f7054b0f2ffe8ce50fade1f
 vendor/lib64/vendor.qti.latency@2.0.so|c4de1ba004bd8d07dbe92f58abb6250c7bbaf968
 
-# DPM - from curtana V12.0.5.0.RJWINXM
+# DPM - from curtana V12.0.4.0.RJWMIXM
 framework/tcmclient.jar|22858e8bb7e3f956e487dc6764ad8250f118d7ac
 system_ext/bin/dpmd|bc22fa258f3975744e248dc7d9f26a00a9981ca7
 system_ext/etc/dpm/dpm.conf|95e27da8c989e96c6faea6f0697bce11955b62a5
@@ -238,7 +238,7 @@ vendor/lib64/libsecureui.so|2dc60336aef5b68f20173648952477202b00c009
 vendor/lib64/libsecureui_svcsock.so|9cb1b317f10d53819158ff8b05b25929a7759857
 vendor/lib64/libssd.so|bf3b64cc51cbbe2d70373d94025725c49ce1d46b
 
-# Keymaster - from curtana V12.0.5.0.RJWINXM
+# Keymaster - from curtana V12.0.4.0.RJWMIXM
 vendor/lib64/libkeymasterdeviceutils.so|342fec39fae05ad5c0946dfbe2ad39343ea556cb
 vendor/lib64/libkeymasterprovision.so|900e14797da1eb939030ef74d7a91ec5f10ce064
 vendor/lib64/libkeymasterutils.so|b9c888d579c9cf7a1c8f463be4048eb9d935daf8
@@ -263,7 +263,7 @@ vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e157937
 vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|a917bd71ccfdbdd89e26704a230c7c148d3cc4b5
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|1ac676dca4c81094b254b62f1b608e471b385847
 
-# ESE - from curtana V12.0.5.0.RJWINXM
+# ESE - from curtana V12.0.4.0.RJWMIXM
 vendor/lib/vendor.qti.esepowermanager@1.0.so|d8d494f61e818df60913dc45fdc46bd3210aca24
 vendor/lib64/vendor.qti.esepowermanager@1.0.so|1d9663e2ad911aa75da4b07a2b17dd023d4c796e
 vendor/lib/vendor.qti.esepowermanager@1.1.so|0128f73834c9f5f19eb8d336c6e39e30f949ae5d
@@ -273,7 +273,7 @@ vendor/etc/init/vendor.qti.esepowermanager@1.1-service.rc|3c024c7135ec3dd8658624
 vendor/lib/hw/vendor.qti.esepowermanager@1.1-impl.so|2428a1240c395ae57b497affc0136f161e81e21d
 vendor/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so|c6b853c5a008123490afeb103a979daf1eb42ee3
 
-# FM - from curtana V12.0.5.0.RJWINXM
+# FM - from curtana V12.0.4.0.RJWMIXM
 -product/lib/vendor.qti.hardware.fm@1.0.so:system_ext/lib/vendor.qti.hardware.fm@1.0.so|29d1ca940527d8016884517a1a3234bd24005be4
 -product/lib64/vendor.qti.hardware.fm@1.0.so:system_ext/lib64/vendor.qti.hardware.fm@1.0.so|b7dd1354a1415cf49b96b6bb0cc44920c41d2aab
 lib/fm_helium.so:system_ext/lib/fm_helium.so|0a810beae107546e3c5dba6ff7309c781f079f60
@@ -389,7 +389,7 @@ vendor/lib64/libtinyxml2_1.so|70942325afdd14eedcf11b3fbbfbc3d98f42f8dc
 vendor/lib/hw/vulkan.sdm660.so|7310dc473b52923cc02ba942cbe209002b583b8b
 vendor/lib64/hw/vulkan.sdm660.so|7c00b59626361d0a81d0f222f93c08198bd5cc64
 
-# IRQ balance - from curtana V12.0.5.0.RJWINXM
+# IRQ balance - from curtana V12.0.4.0.RJWMIXM
 vendor/bin/msm_irqbalance|bcc114819bd50bfbefe2dfcb9f815f9959cdad44
 
 # Listen - from lemon 21.4.13
@@ -434,7 +434,7 @@ vendor/lib64/libOmxG711Dec.so|a790263aff52b01ca820d2ad20eaa1fa4b64995f
 vendor/lib64/libOmxQcelp13Dec.so|f0358c768da5f8098ffb33dd0d78ecbc59d53a4e
 vendor/lib64/libOmxWmaDec.so|17fcb6a109d8c8064bed2bdffb65be7d3bb06163
 
-# Mlipay - from curtana V12.0.5.0.RJWINXM
+# Mlipay - from curtana V12.0.4.0.RJWMIXM
 vendor/bin/mlipayd@1.1|22ad003171f71612576154edfce9d5175b63c7a6
 vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc|b5ab5bcd031fe4d9781b5911c0595eaeac8b80ea
 vendor/lib/vendor.xiaomi.hardware.mtdservice@1.0.so|b634ccc9f2188646f84d06dd3e22dc19447efac5
@@ -444,13 +444,13 @@ vendor/lib64/libmlipay@1.1.so|d00e254dedca640e04ab5f218e0e873d61b07f50
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.0.so|8d7c388d98168d00b7bf52490a5d4b3567d227b7
 vendor/lib64/vendor.xiaomi.hardware.mlipay@1.1.so|1bc3e6e873b76b1a04536bca664fd00d651d163f
 
-# Perf - From curtana V12.0.5.0.RJWINXM
+# Perf - From curtana V12.0.4.0.RJWMIXM
 vendor/lib64/libadaptlaunch.so|399209a9e1a05476b5a227ac7673a95c23009447
 vendor/lib64/libappclassifier.so|e5eb66054c66fd2552f5746be65d6f3037f749b5
 vendor/lib64/libgameoptfeature.so|140eed0fcbc31140df4c93a554ec49782cf11591
 vendor/lib64/liblearningmodule.so|18b85780776425249556432a8d66b5643feae546
 
-# Peripheral manager - from curtana V12.0.5.0.RJWINXM
+# Peripheral manager - from curtana V12.0.4.0.RJWMIXM
 vendor/bin/pm-proxy|6a69b719a1c4f5af4aec7aaf7554065a3a0cb7aa
 vendor/bin/pm-service|f9960890052140c37d416f7d5bf8afecb6a77ad5
 vendor/lib/libperipheral_client.so|43d03a2859ffead0cf56445257f460b036161a8a
@@ -469,13 +469,13 @@ vendor/lib64/vendor.display.color@1.1.so|d2dfc3fff6aaf7989110ebe05af154186e53501
 vendor/lib64/vendor.display.color@1.2.so|7b967425caa1205e331484e1e1484ac3bd355067
 vendor/lib64/vendor.display.postproc@1.0.so|c9c96ff50b6ff8989fac9fdf35d282a996ea477a
 
-# QRTR from curtana V12.0.5.0.RJWINXM
+# QRTR from curtana V12.0.4.0.RJWMIXM
 vendor/bin/qrtr-cfg|a7f9d9bf5cbd2e61c5853b6b2777ec20336e9866
 vendor/bin/qrtr-lookup|fb6cffbb7390b1b7f0cefe6c49ea8530d548dcee
 vendor/bin/qrtr-ns|d43bfbc74ebc51b4ce88a628579325388710cd7b
 vendor/lib64/libqrtr.so|c7ca700c1f4759aa673a6c5478ca492487bbea70
 
-# QMI - from curtana V12.0.5.0.RJWINXM
+# QMI - from curtana V12.0.4.0.RJWMIXM
 system_ext/etc/permissions/qti_libpermissions.xml|593bcb72cce68ceb0a70f50bcae7d460114e7c62
 system_ext/etc/permissions/qti_permissions.xml|e6ff4572352b1a4f91b6b9d7cbb1cad9924410a0
 vendor/bin/irsc_util|29a94d176e5df22bec094907b6c940c661d5f328
@@ -514,7 +514,7 @@ vendor/lib64/libqmi_encdec.so|d06ffda60fc990364d64cbf519d96277225dcf56
 vendor/lib64/libqmi_legacy.so|f031e04a2fc5bb18406667145c2eeea31a3a18fc
 vendor/lib64/libqmiservices.so|5065de773ec9b41658ca94c6bbf6ddd4acb3bc70
 
-# Radio - from curtana V12.0.5.0.RJWINXM
+# Radio - from curtana V12.0.4.0.RJWMIXM
 -system_ext/app/DeviceInfo/DeviceInfo.apk|f7e24e370c49a74c138c565b0f87156972db4673
 -system_ext/app/QtiTelephonyService/QtiTelephonyService.apk|20da64a1fbb4d9c04c763333c4d9a0b7c1053fb9
 -system_ext/app/datastatusnotification/datastatusnotification.apk|a708487221c7aa5051b2e80af2c89a8148b1cc23
@@ -561,7 +561,7 @@ vendor/lib64/libqcmaputils.so|6b404fb74f8c371f025992c8be9c0b93fada93f8
 vendor/lib64/libqcrilFramework.so|4a4a3177ca2cb9747b64c2ca88d60defeb85d058
 vendor/lib64/libqcrildatactl.so|aaa169e1ce510498b12ba00b62f108b8ae171b43
 vendor/lib64/libqsocket.so|8097bfbf5ec54222e46a027683fde03f8cc53626
-vendor/lib64/libril-qc-hal-qmi.so|db72147a94fe8fb3ab8d8883f096e94dbac26c9e
+vendor/lib64/libril-qc-hal-qmi.so|98faf3d53aa04cc47ef4b8f62221ccb7224fa98e
 vendor/lib64/libril-qc-logger.so|555092d6bbb41c98c54850c90d304f9a95ffa5d7
 vendor/lib64/libril-qc-ltedirectdisc.so|b3bf3b6e2a3d3358713cbed812b97549ed0260c5
 vendor/lib64/libril-qc-radioconfig.so|e57712336e6909440fb8a3786196a836c0e10e24
@@ -590,8 +590,8 @@ vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.1.so|1298a911908e8fd3
 vendor/lib64/vendor.qti.hardware.radio.uim_remote_client@1.2.so|c9ed9a2f52d3d6411ebbb1060acf0650c14a8bec
 vendor/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so|3e98229c42b6c5e14b6432c8334ec7b1c799fc03
 vendor/lib64/vendor.qti.ims.rcsconfig@1.1.so|e2ec8403fec15b11bfec6b0f6607f66ae3ca02f3
-vendor/radio/qcril_database/qcril.db|189f747b43261d69476df83c199287cba21332e8
-vendor/radio/qcril_database/upgrade/0_initial.sql|0417765aaf278f336b087a1e6ac95eb155e17e3d
+vendor/radio/qcril_database/qcril.db|cf405ff8bdc8c1d62bcb5b5f260d1356dd0ce0c9
+vendor/radio/qcril_database/upgrade/0_initial.sql|6d59e9bc27c390f472f721734cdf1b09dfe91dd2
 vendor/radio/qcril_database/upgrade/1_version_intro.sql|67b96cb3e94737bfe271b2519b9eb5fae17373a2
 vendor/radio/qcril_database/upgrade/2_version_add_wps_config.sql|b4a825ba20fea3e2f20c7f02c8bd64596c24a75e
 vendor/radio/qcril_database/upgrade/3_version_update_wps_config.sql|0571aacaf9fc0868c48bba2f7542f5b4e68c9022
@@ -600,7 +600,7 @@ vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql|1ed6872929020
 vendor/radio/qcril_database/upgrade/6_version_update_ecc_table.sql|93340d59f05cdcb580d934fb5c8a36e2b87f17a3
 vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql|8bc817a576a63842570cd4f021ef1d4751d5f4cf
 
-# Radio - IMS - from curtana V12.0.5.0.RJWINXM
+# Radio - IMS - from curtana V12.0.4.0.RJWMIXM
 -system_ext/app/imssettings/imssettings.apk|7eddaa57cbab2aed139a754be674ae1101a66680
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml|bd9fc166b542b4e730f194ebc996957770d9d497
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.1-java.xml|b40fc74f7d5e58b4e918f952b89a79cf2a5c4088
@@ -691,16 +691,16 @@ vendor/lib64/libsensor1.so|dac9d5fb1b5aacfa5bedf812ebdd04eadd0af2dc
 vendor/lib64/libsensor_reg.so|be00c924983a2a279f799332cf2b262da9af78d1
 vendor/lib64/sensor_calibrate.so|dacb7a77e1713a756a43c082329e9f42e2c0d40e
 
-# Soter - from curtana V12.0.5.0.RJWINXM
+# Soter - from curtana V12.0.4.0.RJWMIXM
 -app/SoterService/SoterService.apk|939423f0016034cf8676f64d384aafde308f779b
 
-# Soter - from curtana V12.0.5.0.RJWINXM
+# Soter - from curtana V12.0.4.0.RJWMIXM
 vendor/bin/hw/vendor.qti.hardware.soter@1.0-service|80ae6dfcb151cd0813b2d20442e540edede24772
 vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc|76447a61ad5529949365eeb7e8ca000e48bd28ae
 vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so|abf6b782dfc2906e8649ca145aac9b1197694f72
 vendor/lib64/vendor.qti.hardware.soter@1.0.so|f98b5eef4e9851ee4ff9546685e9c2fc2ba9e35a
 
-# Thermal - from curtana V12.0.5.0.RJWINXM
+# Thermal - from curtana V12.0.4.0.RJWMIXM
 vendor/bin/thermal-engine|1b275fff739203b566a189fb4247383dd6e76e15
 vendor/lib/libthermalfeature.so|57b7cb8b92ee3d0002f8884b1379653300ed5d47
 vendor/lib64/libthermalfeature.so|039c92ea5b7532568c63035a51426d9801eaa097
@@ -708,7 +708,7 @@ vendor/lib64/libthermalioctl.so|7c7a784d8ead3d932d164cfc953b09e621060d90
 -vendor/lib/libthermalclient.so|31533667b7f8137670189a14c68ccb51c7ca6dab
 -vendor/lib64/libthermalclient.so|41274c82e1a472d12b2ebcb4156f7f77b109efa8
 
-# Time services - from curtana V12.0.5.0.RJWINXM
+# Time services - from curtana V12.0.4.0.RJWMIXM
 -vendor/app/TimeService/TimeService.apk|7d176a69b270006a511a3c30f544db98a0ccaa37
 -vendor/lib/libtime_genoff.so|84725b6d9930088932e5df7d3dc5e6bcaba25e35
 -vendor/lib64/libtime_genoff.so|c9070f25aa132707705523ddaab522b88c22923f
