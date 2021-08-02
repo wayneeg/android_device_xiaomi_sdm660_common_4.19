@@ -51,7 +51,9 @@ ro.com.google.ime.theme_id=5
 ro.com.google.ime.bs_theme=true
 ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
 
-# IORAP
+# IORap app launch prefetching using Perfetto traces and madvise
+iorapd.perfetto.enable=true
+iorapd.readahead.enable=true
 ro.iorapd.enable=true
 
 # LMKD

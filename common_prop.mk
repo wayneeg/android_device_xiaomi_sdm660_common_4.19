@@ -223,10 +223,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.data.iwlan.enable=true \
     persist.radio.ue_interrogate=0
 
-# IORap app launch prefetching using Perfetto traces and madvise
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.iorapd.enable=true
-
 # LMKD
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.lmk.low=1001 \
