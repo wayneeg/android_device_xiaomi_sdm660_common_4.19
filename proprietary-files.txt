@@ -229,45 +229,45 @@ vendor/etc/diracvdd.bin|f9b07ace60490649c44411504909c7bf8bc73d59
 vendor/lib/libDiracAPI_SHARED.so|42b49679d38eca93fead05ea06ddbdc8108fd4b1
 vendor/lib/soundfx/libdirac.so|f63826a905b520fa524e4c1b147be7cf65240953
 
-# DRM - from LA.UM.8.2.1.r1-05600-sdm660
-vendor/bin/qseecomd|46e7940548aa3fe4f579c59858f2da4dba97707c
-vendor/lib64/libGPreqcancel.so|e402b6dd242031af4e67d9d46f1ec72ff0ed35d3
-vendor/lib64/libGPreqcancel_svc.so|817295e1f7de69635dee44ad30382edc0ba9455a
-vendor/lib64/libQSEEComAPI.so|0a860cf2d01df964c91256984ca4e425dc783f2f
-vendor/lib64/libSecureUILib.so|680788dde32476a5f118fcb76135426df6f377c2
-vendor/lib64/libStDrvInt.so|8de13b46e8f21016c0fffaec34b0a2bacfccec04
-vendor/lib64/libdrmfs.so|958d8cb360b70ccdea24621ced82bd7bc30c697b
-vendor/lib64/libdrmtime.so|a7f1076fad0535f11a83d8fa03e7796150c3a4b5
-vendor/lib64/libqisl.so|c4e7f283f3d416b784f2ec0f7000d607e044809b
-vendor/lib64/librpmb.so|c34f39fc6b548d0da94c2198de3e4963fc241852
-vendor/lib64/libsecureui.so|2dc60336aef5b68f20173648952477202b00c009
-vendor/lib64/libsecureui_svcsock.so|9cb1b317f10d53819158ff8b05b25929a7759857
-vendor/lib64/libssd.so|bf3b64cc51cbbe2d70373d94025725c49ce1d46b
+# DRM - from phoenix_sprout RKQ1.201123.002
+vendor/bin/qseecomd|fbaadec73605f1030441102f75f65e7798796f2a
+vendor/lib64/libGPreqcancel.so|cef7983d5aceb03b4c422731c838ead1a8f3fed4
+vendor/lib64/libGPreqcancel_svc.so|e9874fe970ced25c88baae1d758ef0ceb8effa6d
+vendor/lib64/libQSEEComAPI.so|1d1ee2a76842d565b3af0f98a47e80a92a0bc674
+vendor/lib64/libSecureUILib.so|f63bbf3a468529a91a43c28b2bc0d8f43786c01c
+vendor/lib64/libStDrvInt.so|8e6dae4cf49691c528fc466b5e04757e748b9dcd
+vendor/lib64/libdrmfs.so|cf8706de5796a29fec22e2b1e0edd2aacc7ffc7e
+vendor/lib64/libdrmtime.so|a3a2686bf4049adf67612fe890d94bc54b5fc4e6
+vendor/lib64/libqisl.so|529d7e20bb33147fe3404c1a58d266e49228046a
+vendor/lib64/librpmb.so|7e79c722e87fbe1de6c1b1032e1778f8c91551cb
+vendor/lib64/libsecureui.so|33f081354f09c109a0fa09925f890b290a4b2576
+vendor/lib64/libsecureui_svcsock.so|8cb2b74edaf3ef77c8da0799cf241426a441d51f
+vendor/lib64/libssd.so|d056d130421f999321f32e046165776e20f1027d
 
 # Keymaster - from curtana V12.0.4.0.RJWMIXM
 vendor/lib64/libkeymasterdeviceutils.so|342fec39fae05ad5c0946dfbe2ad39343ea556cb
 vendor/lib64/libkeymasterprovision.so|900e14797da1eb939030ef74d7a91ec5f10ce064
 vendor/lib64/libkeymasterutils.so|b9c888d579c9cf7a1c8f463be4048eb9d935daf8
 
-# DRM (HDCP) - from LA.UM.8.2.1.r1-05600-sdm660
-vendor/lib/libmm-hdcpmgr.so|1ff84ed9daf224c6a4dde2900291c4d678032231
-vendor/lib64/libmm-hdcpmgr.so|029096911d2ef0dc6a65b07d720d392f88988d04
+# DRM (HDCP) - from phoenix_sprout RKQ1.201123.002
+vendor/lib/libmm-hdcpmgr.so|9992596e8ee5115b1573a7242276b8676d52aa68
+vendor/lib64/libmm-hdcpmgr.so|99cf7e11c8e08ddb92deb8fbd514cf874bedaf63
 
-# DRM (Widevine) - from ginkgo 21.6.9
-vendor/bin/hw/android.hardware.drm@1.3-service.widevine|75103a18355966370895526dc9afb6adff4b755b
+# DRM (Widevine) - from phoenix_sprout RKQ1.201123.002
+vendor/bin/hw/android.hardware.drm@1.3-service.widevine|7c65a818f9c3d00051698e2a51425058083d69c4
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc|c35e1a6f9a6faff19064a81e07c4be82ceaf4bb5
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ebebcf8f367641480cf7d512fc06e6ab777527be
-vendor/lib64/libbase64.so|caba4e42499d8e53e80c5e05313a36058ae5123e
-vendor/lib64/libcpion.so|afa44f5941a880a4d304dfac4b5d175762b20539
-vendor/lib64/librmp.so|176aed768090f0c8b48cb6ad9e397b35f128b2a5
-vendor/lib64/libwvhidl.so|e98bb50eabcfa15da53a141db522634c168a34e0
+vendor/lib64/libbase64.so|70bc95e0861eb969d7361c3d13727180c83c44b8
+vendor/lib64/libcpion.so|0a6999ca33dea3bed4301106fc225f9b11b9f289
+vendor/lib64/librmp.so|2618a622b4bcd285878f9a65bf75fef57885bc2e
+vendor/lib64/libwvhidl.so|6a391723bb40d8d7ee09012fe9c31f0122e4a84f
 vendor/lib64/mediadrm/libwvdrmengine.so|a29e4a99ad106d7e13017f23377edd0971de8cb9
 
-# DRM (TUI) - from LA.UM.8.2.1.r1-05600-sdm660
-vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|d4d025e0a12af87f65104fe07801517938733603
+# DRM (TUI) - from phoenix_sprout RKQ1.201123.002
+vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti|e8d97981d09a4e34907d13bcbbd10f03572c9218
 vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc|2cfc563d7e1579374f001c94588fae7835a12ffc
-vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|a917bd71ccfdbdd89e26704a230c7c148d3cc4b5
-vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|1ac676dca4c81094b254b62f1b608e471b385847
+vendor/lib/vendor.qti.hardware.tui_comm@1.0.so|0ff139504e354b06b9cb230bb2e34406c3700b66
+vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so|520d20c145f1c8109470e592bcc360d09b5915bb
 
 # ESE - from curtana V12.0.4.0.RJWMIXM
 vendor/lib/vendor.qti.esepowermanager@1.0.so|d8d494f61e818df60913dc45fdc46bd3210aca24
