@@ -531,7 +531,6 @@ system_ext/etc/permissions/telephony_system-ext_privapp-permissions-qti.xml|4f00
 system_ext/etc/permissions/telephonyservice.xml|b7831598d3c19c6ce4ef431d1cc44d94c3c35a8d
 system_ext/framework/embmslibrary.jar|841d246e003d7d0baf27ef5937366cc34636bfc1
 system_ext/framework/qcrilhook.jar|ad688364314100318f305ed4ab5defec8766b20a
-system_ext/framework/qti-telephony-common.jar|6fe866abf570b6ee05cf333d95123124da9bddbe
 -system_ext/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|16cfcf7cd4076be0e0c97c8514305e03fbf5f571
 vendor/bin/adpl|2990c3789e20f93b364863fa20b65f35e05bf5fa
 vendor/bin/hw/qcrild|5e39ba4874188ccdbf5fc1b421d28398e845cdb1
@@ -606,6 +605,12 @@ vendor/radio/qcril_database/upgrade/5_version_update_ecc_table.sql|1ed6872929020
 vendor/radio/qcril_database/upgrade/6_version_update_ecc_table.sql|93340d59f05cdcb580d934fb5c8a36e2b87f17a3
 vendor/radio/qcril_database/upgrade/7_version_update_ecc_table.sql|8bc817a576a63842570cd4f021ef1d4751d5f4cf
 
+# Radio - from nubia NX659J 20201109.121337
+system_ext/framework/qti-telephony-common.jar|ac67728c317dc56f5a98f11e9f0fd526bf725755
+
+# Radio - IMS - from nubia NX659J 20201109.121337
+-system_ext/priv-app/ims/ims.apk|3dae438ef192086a8913c06d24c055802c25f2a6
+
 # Radio - IMS - from curtana V12.0.4.0.RJWMIXM
 -system_ext/app/imssettings/imssettings.apk|7eddaa57cbab2aed139a754be674ae1101a66680
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice-V2.0-java.xml|bd9fc166b542b4e730f194ebc996957770d9d497
@@ -638,7 +643,6 @@ system_ext/lib64/vendor.qti.ims.callinfo@1.0.so|ee4e22a64ebed410303e5fe8e3961be1
 system_ext/lib64/vendor.qti.ims.factory@1.0.so|fbebef1b0de8dbb2a2d059175bf53fa08ef20623
 system_ext/lib64/vendor.qti.ims.rcsconfig@1.0.so|2ffe2c86e070f5b8d406f5cf27913fe2ecab60e3
 system_ext/lib64/vendor.qti.imsrtpservice@3.0.so|393c5affc1e8e36470705ec44396d1ffa603a541
--system_ext/priv-app/ims/ims.apk|9f0a48f1f6f0d23b558c659c9658f3913a8ce185
 vendor/bin/ims_rtp_daemon|3cd0e68af0f5f0474d1b079450d8684cac5fb165
 vendor/bin/imsdatadaemon|22f7030ec98d6232cb4ab0b13559a65f3e5bdbd4
 vendor/bin/imsqmidaemon|691438ceba74d051ba336fda9a34165cf76e7986
