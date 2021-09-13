@@ -89,13 +89,13 @@
     <!-- FPS Info -->
     <string name="fps_info_title">FPS Overlay</string>
     <string name="fps_info_summary">Show overlay with current frames per second</string>
-    
+
     <!-- Audio amplification -->
     <string name="audio_amplify">Amplify Audio</string>
     <string name="earpiece_gain">Earpiece Gain</string>
     <string name="headphone_gain">Headphone Gain</string>
     <string name="mic_gain">Microphone Gain</string>
-    
+
      <!-- Dirac -->
     <string name="audio_title">Dirac</string>
 
@@ -153,5 +153,8 @@
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Gaming</string>
     <string name="thermal_streaming">Streaming</string>
+
+    <!-- Whether to show the Preference for Adaptive connectivity -->
+    <bool name="config_show_adaptive_connectivity">true</bool>
 
 </resources>
